@@ -1,0 +1,16 @@
+C:\code\c-sharp-demo\aboutString\bin\Debug\net5.0\aboutString.exe
+C:\code\c-sharp-demo\aboutString\bin\Debug\net5.0\aboutString.deps.json
+C:\code\c-sharp-demo\aboutString\bin\Debug\net5.0\aboutString.runtimeconfig.json
+C:\code\c-sharp-demo\aboutString\bin\Debug\net5.0\aboutString.runtimeconfig.dev.json
+C:\code\c-sharp-demo\aboutString\bin\Debug\net5.0\aboutString.dll
+C:\code\c-sharp-demo\aboutString\bin\Debug\net5.0\ref\aboutString.dll
+C:\code\c-sharp-demo\aboutString\bin\Debug\net5.0\aboutString.pdb
+C:\code\c-sharp-demo\aboutString\obj\Debug\net5.0\aboutString.csprojAssemblyReference.cache
+C:\code\c-sharp-demo\aboutString\obj\Debug\net5.0\aboutString.GeneratedMSBuildEditorConfig.editorconfig
+C:\code\c-sharp-demo\aboutString\obj\Debug\net5.0\aboutString.AssemblyInfoInputs.cache
+C:\code\c-sharp-demo\aboutString\obj\Debug\net5.0\aboutString.AssemblyInfo.cs
+C:\code\c-sharp-demo\aboutString\obj\Debug\net5.0\aboutString.csproj.CoreCompileInputs.cache
+C:\code\c-sharp-demo\aboutString\obj\Debug\net5.0\aboutString.dll
+C:\code\c-sharp-demo\aboutString\obj\Debug\net5.0\ref\aboutString.dll
+C:\code\c-sharp-demo\aboutString\obj\Debug\net5.0\aboutString.pdb
+C:\code\c-sharp-demo\aboutString\obj\Debug\net5.0\aboutString.genruntimeconfig.cache
